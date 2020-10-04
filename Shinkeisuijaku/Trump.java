@@ -18,3 +18,5 @@ public class Trump{
   }
 }
 
+
+//コメントを追加しました
