@@ -17,3 +17,4 @@ public class Trump{
     return this.number;
   }
 }
+
