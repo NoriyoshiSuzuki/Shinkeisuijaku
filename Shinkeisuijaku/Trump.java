@@ -1,4 +1,4 @@
-package trumpgame;
+package shinkeisuijaku;
 public class Trump{
   private String mark;
   private int number;
