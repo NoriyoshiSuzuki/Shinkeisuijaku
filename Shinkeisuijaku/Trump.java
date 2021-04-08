@@ -1,4 +1,4 @@
-package trumpgame;
+package shinkeisuijaku;
 public class Trump{
   private String mark;
   private int number;
@@ -17,3 +17,6 @@ public class Trump{
     return this.number;
   }
 }
+
+
+//コメントを追加しました
